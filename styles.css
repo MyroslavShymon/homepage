@@ -104,6 +104,11 @@ body {
   justify-content: start;
 }
 
+.contact-info__item_mail {
+  flex-direction: column;
+  align-items: center;
+}
+
 .contact-info__item:not(:last-child) {
   margin-bottom: 20px;
 }
